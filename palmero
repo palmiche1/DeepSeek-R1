@@ -1,0 +1,3 @@
+# Load and run the model:
+llama-cli -hf lmstudio-community/mathstral-7B-v0.1-GGUF \
+  -p "Once upon a time,"
